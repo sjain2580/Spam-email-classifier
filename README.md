@@ -43,7 +43,7 @@ The model is trained on a portion of the dataset (80% for training) and evaluate
 1. Clone the repository:
 
 ```bash
-git clone <https://github.com/sjain2580/Spam email classifier>
+git clone <https://github.com/sjain2580/Spam-email-classifier>
 cd <repository_name>
 ```
 
